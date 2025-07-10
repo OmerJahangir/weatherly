@@ -1,4 +1,4 @@
-# Flutter Weather Application
+# Weatherly
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The app is built using the Model-View-ViewModel (MVVM) architecture. This design
 
 Follow these steps to get the app up and running:
 
-1. Clone the repository: `git clone https://github.com/Hamad-Anwar/Flutter-Weather-With-APIs-GETX-MVVM.git`
+1. Clone the repository: `git clone https://github.com/OmerJahangir/weatherly`
 2. Navigate to the project directory: `cd weather`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
